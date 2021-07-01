@@ -1,0 +1,5 @@
+#countries and capitals for quiz generator
+#different data may be inserted to change quiz type
+
+
+capitals = {'Ghana': 'Accra', 'Algeria': 'Algiers', 'Jordan': 'Amman', 'Netherlands': 'Amsterdam', 'Turkey': 'Ankara', 'Thailand': 'Bangkok', 'Gambia': 'Banjul', 'Lebanon': 'Beirut', 'Hungary': 'Budapest', 'Wales': 'Cardiff', 'Denmark': 'Copenhagen', 'Syria': 'Damascus', 'Bangladesh': 'Dhaka', 'Scotland': 'Edinburgh', 'Vietnam': 'Hanol', 'Cuba': 'Havana', 'Finland': 'Helsinki', 'Indonesia': 'Jakarta', 'Israel': 'Jerusalem', 'Sudan': 'Khartoum', 'Jamaica': 'Kingston', 'Peru': 'Lima', 'Portugal': 'Lisbon', 'United Kingdom': 'London', 'Spain': 'Madrid', 'Somalia': 'Mogadishu', 'Russia': 'Moscow', 'Oman': 'Muscat', 'Kenya': 'Nairobi', 'Norway': 'Oslo', 'Canada': 'Ottawa', 'France': 'Paris', 'Morocco': 'Rabat', 'Latvia': 'Riga', 'Italy': 'Rome', 'Japan': 'Tokyo', 'Austria': 'Vienna', 'Poland': 'Warsaw', 'Myanmar': 'Yangon', 'Croatia': 'Zagreb', 'Armenia': 'Yerevan', 'Malta': 'Valletta', 'Libya': 'Tripoli', 'Fiji': 'Suva', 'Sweden': 'Stockholm', 'Bolivia': 'Sucre', 'Bulgaria': 'Sofia', 'Chile': 'Santiago', 'Saudi Arabia': 'Riyadh', 'Ecuador': 'Quito'}
